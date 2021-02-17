@@ -10,6 +10,7 @@ fail or promoted to next year. The results provide steps to improve the performa
 
 
 Models:
+
 Multiple Linear Regression: Multiple linear regression (MLR), also known simply as multiple regression, is a statistical technique that uses several explanatory variables to predict the outcome of a response variable. The goal of multiple linear regression (MLR) is to model the linear relationship between the explanatory (independent) variables and response (dependent) variable.
 
 Support Vector Machine Regression: A support vector machine Regression is a supervised machine learning algorithm which is used in regression environment. In this calculation, we plot every data thing as a point in n- dimensional space (where n is number of highlights you have) with the estimation of each element being the estimation of a specific facilitate. At that point, we perform grouping by finding the hyper-plane that separate the two classes and form the best fit line and give up the predictions.
