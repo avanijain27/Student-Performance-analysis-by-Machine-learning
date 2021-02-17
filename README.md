@@ -9,7 +9,7 @@ implemented supervised regression models.
 fail or promoted to next year. The results provide steps to improve the performance of the students who were predicted to fail or promoted.
 
 
-Models:
+MODELS:
 
 Multiple Linear Regression: Multiple linear regression (MLR), also known simply as multiple regression, is a statistical technique that uses several explanatory variables to predict the outcome of a response variable. The goal of multiple linear regression (MLR) is to model the linear relationship between the explanatory (independent) variables and response (dependent) variable.
 
@@ -20,3 +20,10 @@ Random Forest Regression: A Random Forest is an ensemble technique capable of pe
 Logistic regression: Logistic regression is a classification model. The model builds a classification model to predict the probability that a given data entry belongs to the category numbered as “1” or “0”. Just like Linear regression assumes that the data follows a linear function, Logistic regression models the data using the sigmoid function.
 
 XG Boost: XG Boost is a decision-tree-based ensemble Machine Learning algorithm that uses a gradient boosting framework. In prediction problems involving unstructured data (images, text, etc.) artificial neural networks tend to outperform all other algorithms or frameworks. However, when it comes to small- to-medium structured/tabular data, decision tree-based algorithms are considered best-in-class right now.
+
+CONCLUSION FOR THE PROJECT:
+
+By implementing the three models such as multiple linear regression, support vector machine, random forest regression. And after evaluating these models using MAE, MSE, RMSE, R-square, we can conclude that for the given data set, random forest is working great as compared to multiple linear regression and support vector regression. The MAE, MSE, RMSE are very less and also R-square value is very high therefore it represents the coefficient have well fitted compared to the original values. The second- best model here is multiple linear regression.
+
+By implementing the classification models such as logistic regression and XG boost, and after evaluation we can conclude that for our data the XG Boost is working good as compared to logistic regression as we are getting higher accuracy for XG Boost and also the area under curve is more in the case of XG Boost which implies, the XG Boost gives better performance.
+
