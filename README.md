@@ -11,8 +11,11 @@ fail or promoted to next year. The results provide steps to improve the performa
 
 Models:
 Multiple Linear Regression: Multiple linear regression (MLR), also known simply as multiple regression, is a statistical technique that uses several explanatory variables to predict the outcome of a response variable. The goal of multiple linear regression (MLR) is to model the linear relationship between the explanatory (independent) variables and response (dependent) variable.
+
 Support Vector Machine Regression: A support vector machine Regression is a supervised machine learning algorithm which is used in regression environment. In this calculation, we plot every data thing as a point in n- dimensional space (where n is number of highlights you have) with the estimation of each element being the estimation of a specific facilitate. At that point, we perform grouping by finding the hyper-plane that separate the two classes and form the best fit line and give up the predictions.
-Random Forest Regression: A Random Forest is an ensemble technique capable of performing both regression and classification tasks with the use of multiple decision trees
-and a technique called Bootstrap Aggregation, commonly known as bagging. The basic idea behind this is to combine multiple decision trees in determining the final output rather than relying on individual decision trees.
+
+Random Forest Regression: A Random Forest is an ensemble technique capable of performing both regression and classification tasks with the use of multiple decision trees and a technique called Bootstrap Aggregation, commonly known as bagging. The basic idea behind this is to combine multiple decision trees in determining the final output rather than relying on individual decision trees.
+
 Logistic regression: Logistic regression is a classification model. The model builds a classification model to predict the probability that a given data entry belongs to the category numbered as “1” or “0”. Just like Linear regression assumes that the data follows a linear function, Logistic regression models the data using the sigmoid function.
+
 XG Boost: XG Boost is a decision-tree-based ensemble Machine Learning algorithm that uses a gradient boosting framework. In prediction problems involving unstructured data (images, text, etc.) artificial neural networks tend to outperform all other algorithms or frameworks. However, when it comes to small- to-medium structured/tabular data, decision tree-based algorithms are considered best-in-class right now.
