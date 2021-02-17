@@ -27,3 +27,12 @@ By implementing the three models such as multiple linear regression, support vec
 
 By implementing the classification models such as logistic regression and XG boost, and after evaluation we can conclude that for our data the XG Boost is working good as compared to logistic regression as we are getting higher accuracy for XG Boost and also the area under curve is more in the case of XG Boost which implies, the XG Boost gives better performance.
 
+REFERENCES: 
+
+1. https://www.geeksforgeeks.org/understanding-logistic-regression
+2. https://towardsdatascience.com/https-medium-com-vishalmorde-xgboost-algorithm-long-
+she-may-rein-edd9f99be63d
+3. https://blog.exsilio.com/all/accuracy-precision-recall-f1-score-interpretation-of-
+performance-measures/
+4. https://towardsdatascience.com/understanding-auc-roc-curve-68b2303cc9c5
+
